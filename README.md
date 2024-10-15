@@ -54,9 +54,7 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 </p>
 
 ## 📊 GitHub Stats
-![Fahim Saki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSaki&layout=compact&theme=radical)
+![Fahim Saki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSaki&layout=compact&theme=radical)
 
 Thanks for visiting! 😊
 

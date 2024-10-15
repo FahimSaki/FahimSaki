@@ -45,18 +45,6 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 - **Modding Skyrim**: I enjoy creating mods for Skyrim and sharing them on Nexus Mods. It's a great way to combine my programming skills with creativity.
 - **Video Editing & VFX**: In my free time, I love editing videos and working on VFX projects. It’s a fun way to express my creativity and learn new skills.
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
-
-## 📊 GitHub Stats
-![Fahim Saki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSaki&layout=compact&theme=radical)
-
-Thanks for visiting! 😊
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/FahimSaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FahimSaki" height="30" width="40" /></a>
@@ -64,6 +52,13 @@ Thanks for visiting! 😊
 <a href="https://instagram.com/fahimsaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimsaki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fahimsaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahimsaki" height="30" width="40" /></a>
 </p>
+
+## 📊 GitHub Stats
+![Fahim Saki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSaki&layout=compact&theme=radical)
+
+Thanks for visiting! 😊
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

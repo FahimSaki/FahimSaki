@@ -1,6 +1,6 @@
 # Hello, I'm Fahim Saki! 👋
 
-//![Profile Banner]()
+<!-- ![Profile Banner]() -->
 
 ## 🌟 Introduction
 I'm Fahim Saki, a passionate Flutter developer with a keen interest in building efficient and user-friendly mobile applications. I love exploring new technologies and constantly improving my skills. Here you'll find a collection of my projects, contributions, and more!

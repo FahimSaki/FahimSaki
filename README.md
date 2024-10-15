@@ -46,7 +46,7 @@ A simple and efficient to-do list application built with Flutter and Hive for lo
 A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
 
 ## 🤝 Open Source Contributions
-- [Repository Name](https://github.com/repository-link) - Brief description of your contribution.
+- [Repository Name](https://github.com/repository-link) <!-- - Brief description of your contribution. -->
 
 ## ✍️ Blogs & Articles
 - [How to Manage State in Flutter](https://yourbloglink.com)

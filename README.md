@@ -1,6 +1,6 @@
 # Hello, I'm Fahim Saki! 👋
 
-![Profile Banner](https://scontent.fdac31-2.fna.fbcdn.net/v/t1.6435-9/188792956_2890988091217451_8603977924645383075_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tRLqd8HkbhwQ7kNvgHtGdZS&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=A6KKiSnOn7ZDFywqL9HzRQn&oh=00_AYBd7rXmA9ooci5iYSxFQh9miKGi6tn9mpcjDWWipxfGsA&oe=67364371)
+//![Profile Banner]()
 
 ## 🌟 Introduction
 I'm Fahim Saki, a passionate Flutter developer with a keen interest in building efficient and user-friendly mobile applications. I love exploring new technologies and constantly improving my skills. Here you'll find a collection of my projects, contributions, and more!

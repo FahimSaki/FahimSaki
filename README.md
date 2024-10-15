@@ -56,10 +56,6 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 - **Modding Skyrim**: I enjoy creating mods for Skyrim and sharing them on Nexus Mods. It's a great way to combine my programming skills with creativity.
 - **Video Editing & VFX**: In my free time, I love editing videos and working on VFX projects. It’s a fun way to express my creativity and learn new skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fahimuzzaman-saki-0920b8203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimsaki" height="30" width="40" /></a>
-
 ## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimSaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FahimSaki" /></p>

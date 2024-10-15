@@ -17,6 +17,17 @@ I'm Fahim Saki, a passionate Flutter developer with a keen interest in building 
 ![Hive](https://img.shields.io/badge/Hive-FF9500?style=flat&logo=hive&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-999999?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-999999?style=flat&logo=adobepremierepro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0D?style=flat&logo=jupyter&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-DA5B0D?style=flat&logo=cinema4d&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-DA5B0D?style=flat&logo=houdini&logoColor=white)
 
 ## 📚 Projects
 ### [To-Do App with Hive](https://github.com/FahimSaki/todo-app)

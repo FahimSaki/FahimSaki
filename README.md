@@ -7,7 +7,7 @@ I'm Fahim Saki, a passionate Flutter developer with a keen interest in building 
 
 - 🌱 Currently learning **Advanced Flutter & Dart**
 - 🔭 Working on a **To-Do App with Hive**
-- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Flutter**, **Dart**, **Firebase**, and **Mobile App Development**
 
 ## 🛠 Technologies & Tools

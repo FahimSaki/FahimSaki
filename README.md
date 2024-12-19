@@ -44,9 +44,9 @@ An online sneaker shop with features like product search, detailed product views
 ### [Restaurant App](https://github.com/FahimSaki/Restaurant-App)
 A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
 
-## ✍️ Blogs & Articles
+<!-- ## ✍️ Blogs & Articles
 - [How to Manage State in Flutter](https://yourbloglink.com)
-- [Using Hive for Local Storage in Flutter](https://yourbloglink.com)
+- [Using Hive for Local Storage in Flutter](https://yourbloglink.com) -->
 
 ## 🎮 Hobbies & Interests
 - **Modding Skyrim**: I enjoy creating mods for Skyrim and sharing them on Nexus Mods. It's a great way to combine my programming skills with creativity.

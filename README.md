@@ -1,12 +1,10 @@
 # Hello, I'm Fahim Saki! 👋
 
-<!-- ![Profile Banner]() -->
-
 ## 🌟 Introduction
 I'm Fahim Saki, a passionate Flutter developer with a keen interest in building efficient and user-friendly mobile applications. I love exploring new technologies and constantly improving my skills. Here you'll find a collection of my projects, contributions, and more!
 
 - 🌱 Currently learning **Advanced Flutter & Dart**
-- 🔭 Working on a **To-Do App with Hive**
+- 🔭 Working on integrating **Supabase with Hive**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Flutter**, **Dart**, **Firebase**, and **Mobile App Development**
 
@@ -33,20 +31,20 @@ I'm Fahim Saki, a passionate Flutter developer with a keen interest in building 
 ### [To-Do App with Hive](https://github.com/FahimSaki/todo-app)
 A simple and efficient to-do list application built with Flutter and Hive for local storage. Features include task creation, editing, and deletion, along with a sleek UI.
 
-<!-- - 📂 [main.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/main.dart)
-- 📂 [home_page.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/home_page.dart)
-- 📂 [splash_screen.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/splash_screen.dart)
-- 📂 [dialog_box.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/util/dialog_box.dart)
-- 📂 [dialog_button.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/util/dialog_button.dart)
-- 📂 [todo_tile.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/util/todo_tile.dart)
-- 📂 [custom_painter.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/util/custom_painter.dart)
-- 📂 [database.dart](https://github.com/FahimSaki/todo-app/blob/main/lib/data/database.dart) -->
+### [To-Do App with Supabase](https://github.com/FahimSaki/todo-app-supabase)
+An enhanced version of the to-do app integrating Supabase for cloud storage while maintaining Hive for local storage, providing a seamless sync between local and cloud data.
 
 ### [Restaurant App](https://github.com/FahimSaki/Restaurant-App)
 A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
 
-<!-- ## 🤝 Open Source Contributions
-- [Repository Name](https://github.com/repository-link) <!-- - Brief description of your contribution. -->
+### [Reindeers Clothing](https://github.com/FahimSaki/Reindeers-Clothing)
+A minimalistic E-commerce app for clothing and fashion, featuring user authentication, product listings, and a seamless shopping experience.
+
+### [Sneaker Shop](https://github.com/FahimSaki/Sneaker-Shop)
+An online sneaker shop with features like product search, detailed product views, and user reviews, showcasing a modern and user-friendly UI.
+
+### [My Notes](https://github.com/FahimSaki/My-Notes)
+A versatile note-taking app built with Flutter, utilizing the Isar community database for efficient local storage. This project includes advanced Flutter techniques, dark mode and light mode toggling, and a clean, user-friendly interface.
 
 ## ✍️ Blogs & Articles
 - [How to Manage State in Flutter](https://yourbloglink.com)
@@ -61,6 +59,5 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimSaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 190px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&locale=en&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 195px;" />
 </div>
-<!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=FahimSaki&theme=tokyonight" alt="FahimSaki" /></p> -->
 <br>
 Thanks for visiting! 😊

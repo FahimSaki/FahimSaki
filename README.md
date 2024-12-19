@@ -64,5 +64,4 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 
 <!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=FahimSaki&theme=tokyonight" alt="FahimSaki" /></p> -->
 
-
 Thanks for visiting! 😊

@@ -28,23 +28,21 @@ I'm Fahim Saki, a passionate Flutter developer with a keen interest in building 
 ![Houdini](https://img.shields.io/badge/Houdini-DA5B0D?style=flat&logo=houdini&logoColor=white)
 
 ## 📚 Projects
-### [To-Do App with Hive](https://github.com/FahimSaki/todo-app)
-A simple and efficient to-do list application built with Flutter and Hive for local storage. Features include task creation, editing, and deletion, along with a sleek UI.
 
-### [To-Do App with Supabase](https://github.com/FahimSaki/todo-app-supabase)
-An enhanced version of the to-do app integrating Supabase for cloud storage while maintaining Hive for local storage, providing a seamless sync between local and cloud data.
-
-### [Restaurant App](https://github.com/FahimSaki/Restaurant-App)
-A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
+### [My Notes](https://github.com/FahimSaki/My-Notes)
+A versatile note-taking app built with Flutter, utilizing the Isar community database for efficient local storage. This project includes advanced Flutter techniques, dark mode and light mode toggling, and a clean, user-friendly interface.
 
 ### [Reindeers Clothing](https://github.com/FahimSaki/Reindeers-Clothing)
 A minimalistic E-commerce app for clothing and fashion, featuring user authentication, product listings, and a seamless shopping experience.
 
+### [To-Do App with Hive](https://github.com/FahimSaki/todo-app)
+A simple and efficient to-do list application built with Flutter and Hive for local storage. Features include task creation, editing, and deletion, along with a sleek UI.
+
 ### [Sneaker Shop](https://github.com/FahimSaki/Sneaker-Shop)
 An online sneaker shop with features like product search, detailed product views, and user reviews, showcasing a modern and user-friendly UI.
 
-### [My Notes](https://github.com/FahimSaki/My-Notes)
-A versatile note-taking app built with Flutter, utilizing the Isar community database for efficient local storage. This project includes advanced Flutter techniques, dark mode and light mode toggling, and a clean, user-friendly interface.
+### [Restaurant App](https://github.com/FahimSaki/Restaurant-App)
+A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
 
 ## ✍️ Blogs & Articles
 - [How to Manage State in Flutter](https://yourbloglink.com)

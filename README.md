@@ -57,7 +57,6 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 - **Video Editing & VFX**: In my free time, I love editing videos and working on VFX projects. It’s a fun way to express my creativity and learn new skills.
 
 ## 📊 GitHub Stats
-<br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimSaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 190px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&locale=en&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 195px;" />

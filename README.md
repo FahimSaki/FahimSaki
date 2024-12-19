@@ -35,7 +35,7 @@ A versatile note-taking app built with Flutter, utilizing the Isar community dat
 ### [Reindeers Clothing](https://github.com/FahimSaki/Reindeers-Clothing)
 A minimalistic E-commerce app for clothing and fashion, featuring user authentication, product listings, and a seamless shopping experience.
 
-### [To-Do App with Hive](https://github.com/FahimSaki/My-Tasks.git)
+### [To-Do App with Hive and MongoDB](https://github.com/FahimSaki/My-Tasks.git)
 A simple and efficient to-do list application built with Flutter and Hive for local storage. Features include task creation, editing, and deletion, along with a sleek UI.
 
 ### [Sneaker Shop](https://github.com/FahimSaki/Sneaker-Shop)

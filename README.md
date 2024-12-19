@@ -59,7 +59,7 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 ## 📊 GitHub Stats
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimSaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimSaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 190px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=FahimSaki&show_icons=true&locale=en&theme=tokyonight" alt="FahimSaki" style="width: 45%; height: 195px;" />
 </div>
 <!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=FahimSaki&theme=tokyonight" alt="FahimSaki" /></p> -->

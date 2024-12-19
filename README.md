@@ -4,7 +4,7 @@
 I'm Fahim Saki, a passionate Flutter developer with a keen interest in building efficient and user-friendly mobile applications. I love exploring new technologies and constantly improving my skills. Here you'll find a collection of my projects, contributions, and more!
 
 - 🌱 Currently learning **Advanced Flutter & Dart**
-- 🔭 Working on integrating **Supabase with Hive**
+- 🔭 Working on integrating **Supabase/MongoDB with Hive/IsarDB**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Flutter**, **Dart**, **Firebase**, and **Mobile App Development**
 

@@ -27,7 +27,7 @@ I'm Fahim Saki, a passionate Flutter developer with a keen interest in building 
 ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-DA5B0D?style=flat&logo=cinema4d&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-DA5B0D?style=flat&logo=houdini&logoColor=white)
 
-## 📚 Projects
+<!-- ## 📚 Projects
 
 ### [My Notes](https://github.com/FahimSaki/My-Notes)
 A versatile note-taking app built with Flutter, utilizing the Isar community database for efficient local storage. This project includes advanced Flutter techniques, dark mode and light mode toggling, and a clean, user-friendly interface.
@@ -42,7 +42,7 @@ A simple and efficient to-do list application built with Flutter and Hive for lo
 An online sneaker shop with features like product search, detailed product views, and user reviews, showcasing a modern and user-friendly UI.
 
 ### [Restaurant App](https://github.com/FahimSaki/Restaurant-App)
-A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions.
+A feature-rich restaurant application built with Flutter and Firebase, allowing users to browse menus, place orders, and manage reservations. This project demonstrates integration with Firebase for authentication, real-time database, and cloud functions. -->
 
 <!-- ## ✍️ Blogs & Articles
 - [How to Manage State in Flutter](https://yourbloglink.com)

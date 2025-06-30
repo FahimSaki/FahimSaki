@@ -48,9 +48,9 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 - [How to Manage State in Flutter](https://yourbloglink.com)
 - [Using Hive for Local Storage in Flutter](https://yourbloglink.com) -->
 
-## 🎮 Hobbies & Interests
+<!-- ## 🎮 Hobbies & Interests
 - **Modding Skyrim**: I enjoy creating mods for Skyrim and sharing them on Nexus Mods. It's a great way to combine my programming skills with creativity.
-- **Video Editing & VFX**: In my free time, I love editing videos and working on VFX projects. It’s a fun way to express my creativity and learn new skills.
+- **Video Editing & VFX**: In my free time, I love editing videos and working on VFX projects. It’s a fun way to express my creativity and learn new skills. -->
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">

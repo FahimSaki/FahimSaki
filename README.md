@@ -1,12 +1,15 @@
-# Hello, I'm Fahim Saki! 👋
+# Hi there 👋
 
-## 🌟 Introduction
-I'm Fahim Saki, a passionate Flutter developer with a keen interest in building efficient and user-friendly mobile applications. I love exploring new technologies and constantly improving my skills. Here you'll find a collection of my projects, contributions, and more!
+I'm Fahim Saki—a dedicated Flutter developer with a strong passion for creating impactful, user-centered mobile applications. My approach blends technical proficiency with a genuine curiosity for new technologies, especially in the Flutter and Dart ecosystem.
 
-- 🌱 Currently learning **Advanced Flutter & Dart**
-- 🔭 Working on integrating **Supabase/MongoDB with Hive/IsarDB**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter**, **Dart** and **Mobile App Development**
+I’m currently expanding my expertise by integrating advanced backend solutions, including MongoDB and Node.js, into my workflow. My latest focus is on developing collaborative, team-based productivity tools—like the new Momentum mongo branch, which aims to enable seamless task assignment and real-time collaboration for teams.
+
+I thrive in open-source environments and enjoy working alongside others to turn ideas into polished, production-ready solutions. If you’re interested in mobile app development, backend integration, or just want to chat about building great products, let’s connect!
+
+- 🌱 Deepening my knowledge of **Advanced Flutter & Dart**
+- 🔭 Building next-gen team collaboration tools with **MongoDB & Node.js**
+- 👯 Open to collaborating on open source and innovative team projects
+- 💬 Always happy to discuss **Flutter**, **Dart**, and modern app development best practices
 
 ## 🛠 Technologies & Tools
 

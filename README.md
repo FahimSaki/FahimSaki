@@ -54,3 +54,8 @@ A feature-rich restaurant application built with Flutter and Firebase, allowing 
 </div>
 <br>
 Thanks for visiting! 😊
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahimSaki&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimSaki&theme=tokyonight)
+

@@ -2,7 +2,7 @@
 
 I'm Fahim Saki—a dedicated Flutter developer with a strong passion for creating impactful, user-centered mobile applications. My approach blends technical proficiency with a genuine curiosity for new technologies, especially in the Flutter and Dart ecosystem.
 
-Currently expanding my expertise by integrating advanced backend solutions, including MongoDB and Node.js, into my workflow. My latest focus is on developing collaborative, team-based productivity tools—like the new [Momentum](https://github.com/FahimSaki/Momentum.git) , which aims to enable seamless task assignment and real-time collaboration for teams.
+Currently expanding my expertise by integrating advanced backend solutions, including MongoDB and Node.js, into my workflow. My latest focus is on developing collaborative, team-based productivity tools—like [Momentum](https://github.com/FahimSaki/Momentum.git) , which aims to enable seamless task assignment and real-time collaboration for teams.
 
 <!-- Love open-source environments and enjoy working alongside new people to turn ideas into polished, production-ready solutions. If you’re interested in mobile app development, backend integration, or just want to chat about building great products, let’s connect! -->
 

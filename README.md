@@ -10,7 +10,7 @@ I'm Fahimuzzaman Saki, a Full-Stack Software Engineer and co-founder based in Kh
 - Currently deepening backend architecture, authentication systems, and CI/CD practices
 - Happy to talk Flutter, Node.js/Express, MongoDB, or system design
 
-## Technologies & Tools
+<!-- ## Technologies & Tools
 
 | Languages | Backend & APIs | Frontend & Mobile | Databases & Storage | DevOps & Tools |
 | --- | --- | --- | --- | --- |
@@ -29,3 +29,4 @@ I'm Fahimuzzaman Saki, a Full-Stack Software Engineer and co-founder based in Kh
 <br>
 
 Thanks for visiting! 😊
+

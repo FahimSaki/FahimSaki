@@ -2,9 +2,6 @@
 
 I'm Fahimuzzaman Saki, a Full-Stack Software Engineer and co-founder of a software startup based in Khulna, Bangladesh. I design, build, and ship production ready web, mobile and windows apps, backend APIs, authentication, cross-platform Flutter interfaces, and the CI/CD pipelines that deploy them. I own products end-to-end, from architecture through deployment and long-term maintenance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahimuzzaman-saki)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FahimSaki)
-
 - Co-founder & Product Engineer at **Web Brain Computers** - reusable Flutter components and templates I built cut delivery time 20–30% across client projects
 - Solo architect, engineer, and maintainer of **[Momentum](https://github.com/FahimSaki/Momentum)**, an open-source team management platform
 - Also ship native Android (XML) and Windows desktop interfaces when Flutter isn't the right fit for the job

@@ -28,5 +28,5 @@ I'm Fahimuzzaman Saki, a Full-Stack Software Engineer and co-founder based in Kh
 </div>
 <br>
 
-Thanks for visiting! 😊
+Thanks for visiting! 😊 -->
 

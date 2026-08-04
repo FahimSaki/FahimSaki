@@ -4,7 +4,7 @@ I'm Fahimuzzaman Saki, a Full-Stack Software Engineer and co-founder of a softwa
 
 - Co-founder & Product Engineer at **Web Brain Computers** - reusable Flutter components and templates I built cut delivery time 20–30% across client projects
 - Solo architect and maintainer of **[Momentum](https://github.com/FahimSaki/Momentum)**, an open-source team management platform
-- Also ship native Android (XML) and Windows desktop interfaces when Flutter isn't the right fit for the job
+- Also ship native Android (Kotlin/XML) and Windows desktop applications when Flutter isn't the right fit for the job
 
 <!-- ## Technologies & Tools
 
